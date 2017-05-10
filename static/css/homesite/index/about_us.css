@@ -1,0 +1,95 @@
+﻿/*/
+/*
+/* Rank: 3 
+/* Standard：Google
+/*
+/*/
+.slider-container-background {
+  background-color: #FED421;
+}
+.slider-container {
+  background-image:url(../../../img/homesite/7126347832654223.png);
+}
+
+.list.details {
+  width:880px;
+}
+
+.article.list .section p {
+  line-height:28px;
+  color:#666;
+  font-size:16px;
+  margin-top:8px;
+  margin-left:12px;
+}
+
+.article.list .section p.Q {
+  font-size:26px;
+  line-height:54px;
+  color:#5DB528;
+  margin-bottom:4px;
+}
+
+.list {
+  margin-bottom:168px;
+}
+
+.cn-logo {
+  margin-left:12px;
+  margin-right:34px;
+}
+
+.cn-logo img {
+  width:154px;
+}
+
+.connect-us {
+  display:inline-block;
+  width:100%;
+  text-align:center;
+}
+
+.connect-us li {
+  overflow:visible;
+  margin-left:182px;
+}
+
+.connect-us li:first-child {
+  margin-left:52px;
+}
+
+.connect-us li p {
+  max-width:168px;
+  margin-top:18px;
+  line-height:28px;
+  font-size:16px;
+  color:#666;
+  transition:linear color 0.3s;
+}
+
+.connect-us li:hover p {
+  color:#56B60E;
+}
+
+.connect-us i {
+  width:100px;
+  height:100px;
+  font-size:68px;
+  color:#FFF;
+  line-height:100px;
+  border-radius:50%;
+  background:#DAE2D6;
+  transform:scale3d(1,1,1);
+  transition:linear 0.3s;
+  transition-property:background,transform;
+  cursor:pointer;
+}
+
+.connect-us i:hover {
+  transform:scale3d(1.1,1.1,1);
+  background:#88CC56;
+}
+
+.footer {
+  margin-top:0;
+}
