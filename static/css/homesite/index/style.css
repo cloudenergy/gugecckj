@@ -525,6 +525,15 @@ a {
   display: inline-block;
 }
 
+.copyright {
+  text-align: center;
+  color: #797575;
+  font-size: 14px;
+  padding: 16px 0;
+  height: auto;
+  overflow: hidden;
+}
+
 .login-box .btn {
   margin-left: 35px;
   width: 178px;
